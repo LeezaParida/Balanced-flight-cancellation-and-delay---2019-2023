@@ -14,9 +14,9 @@ The dataset encompasses crucial variables, including flight routes (origin, dest
   Distance and route Analysis
   
 ## Key Questions: 
-·   What is the overall frequency of flight delays and cancellations in the dataset? 
-·   Are there specific time periods, airlines, or routes with higher rates of delays or cancellations? 
-.   How does the time of day, airline, or distance impact delays
-·   Are there specific airlines consistently facing higher delays or cancellations? 
+·   What is the overall frequency of flight delays and cancellations in the dataset? <br>
+·   Are there specific time periods, airlines, or routes with higher rates of delays or cancellations?  <br>
+.   How does the time of day, airline, or distance impact delays?  <br>
+·   Are there specific airlines consistently facing higher delays or cancellations?  <br>
 ·  Is there a correlation between the distance of the flight and the likelihood of delays? 
 
